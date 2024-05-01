@@ -53,23 +53,23 @@ export const statistics = [
 export const products = [
   {
     imgURL: shoe4,
-    name: "Nike Air Jordan-01",
-    price: "$200.20",
+    name: "Nike Phantom GX 2 Elite SE",
+    price: "₹23,795.00",
   },
   {
     imgURL: shoe5,
-    name: "Nike Air Jordan-10",
-    price: "$210.20",
+    name: " Adidas PREDATOR 94 FG",
+    price: "₹29,999.00",
   },
   {
     imgURL: shoe6,
-    name: "Nike Air Jordan-100",
-    price: "$220.20",
+    name: "Adidas COPA PURE 2 ELITE KT FG",
+    price: "₹29,999.00",
   },
   {
     imgURL: shoe7,
-    name: "Nike Air Jordan-001",
-    price: "$230.20",
+    name: "Puma FUTURE 7 ULTIMATE FG/AG",
+    price: "₹19,999",
   },
 ];
 
@@ -95,14 +95,14 @@ export const services = [
 export const reviews = [
   {
     imgURL: customer1,
-    customerName: "Morich Brown",
+    customerName: "Aiden Brown",
     rating: 4.5,
     feedback:
       "The attention to detail and the quality of the product exceeded my expectations. Highly recommended!",
   },
   {
     imgURL: customer2,
-    customerName: "Lota Mongeskar",
+    customerName: "Lota Cahill",
     rating: 4.5,
     feedback:
       "The product not only met but exceeded my expectations. I'll definitely be a returning customer!",
@@ -113,18 +113,18 @@ export const footerLinks = [
   {
     title: "Products",
     links: [
-      { name: "Air Force 1", link: "/" },
-      { name: "Air Max 1", link: "/" },
-      { name: "Air Jordan 1", link: "/" },
-      { name: "Air Force 2", link: "/" },
-      { name: "Nike Waffle Racer", link: "/" },
-      { name: "Nike Cortez", link: "/" },
+      { name: "Nike Phantom GX 2 Elite SE", href: "#products" },
+      { name: "Adidas PREDATOR 94", href: "#products" },
+      { name: "Adidas COPA PURE 2 ELITE KT", href: "#products" },
+      { name: "Puma FUTURE 7 ULTIMATE", href: "#products" },
+      { name: "Nike Air 1", href: "#products" },
+      // { name: "Nike Cortez", link: "/" },
     ],
   },
   {
     title: "Help",
     links: [
-      { name: "About us", link: "/" },
+      { name: "About us", href: "#about-us" },
       { name: "FAQs", link: "/" },
       { name: "How it works", link: "/" },
       { name: "Privacy policy", link: "/" },
@@ -134,14 +134,26 @@ export const footerLinks = [
   {
     title: "Get in touch",
     links: [
-      { name: "customer@nike.com", link: "mailto:customer@nike.com" },
-      { name: "+92554862354", link: "tel:+92554862354" },
+      { name: "customer@ghostgoal.com", link: "mailto:customer@ghostgoal.com" },
+      { name: "+91 98765 43210", link: "tel:+919876543210" },
     ],
   },
 ];
 
 export const socialMedia = [
-  { src: facebook, alt: "facebook logo" },
-  { src: twitter, alt: "twitter logo" },
-  { src: instagram, alt: "instagram logo" },
+  {
+    src: facebook,
+    alt: "facebook logo",
+    href: "https://www.facebook.com/ParthRana102303",
+  },
+  {
+    src: twitter,
+    alt: "twitter logo",
+    href: "https://twitter.com/Rana10Parth",
+  },
+  {
+    src: instagram,
+    alt: "instagram logo",
+    href: "https://www.instagram.com/_parthrana_/",
+  },
 ];
