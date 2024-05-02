@@ -5,8 +5,8 @@ import bigShoe3 from "./big-shoe3.png";
 import customer1 from "./customer1.jpeg";
 import customer2 from "./customer2.svg";
 
-import footerLogo from "./footer-logo1.png";
-import headerLogo from "./header-logo1.png";
+import footerLogo from "./footer-logo.png";
+import headerLogo from "./header-logo.png";
 
 import offer from "./offer.png";
 
