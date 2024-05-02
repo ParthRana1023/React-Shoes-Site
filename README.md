@@ -1,5 +1,6 @@
-# React-Shoes-Site
- Ghost Goal: Where Performance Meets Precision. Explore our curated collection of top-tier football boots designed to elevate your game to new heights. From renowned brands like Nike, Adidas, and Puma, Ghost Goal offers a range of styles engineered for speed, agility, and power. Our commitment to quality ensures each pair is crafted with precision engineering and premium materials, delivering unrivalled durability and comfort. Take advantage of exclusive offers and discounts, and join our community of passionate players. With Ghost Goal, every match is an opportunity to dominate the field. Step into victory and unleash your full potential with Ghost Goal.
+# Ghost Goal
+
+Ghost Goal: Where Performance Meets Precision. Explore our curated collection of top-tier football boots designed to elevate your game to new heights. From renowned brands like Nike, Adidas, and Puma, Ghost Goal offers a range of styles engineered for speed, agility, and power. Our commitment to quality ensures each pair is crafted with precision engineering and premium materials, delivering unrivalled durability and comfort. Take advantage of exclusive offers and discounts, and join our community of passionate players. With Ghost Goal, every match is an opportunity to dominate the field. Step into victory and unleash your full potential with Ghost Goal.
 
 **Hero Section:**  
 At Ghost Goal, we believe in the power of the perfect boot. Our hero section showcases top-quality footwear from leading brands like Nike, Adidas, Puma, and more. Whether you're seeking speed, precision, or agility, we have the boots to elevate your game.
